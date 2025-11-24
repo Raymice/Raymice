@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey, I'm Raymice 👋
 🧑‍💻 I'm currently working on a boilerplate project in Java for SWIFT messages exchange
 
 
